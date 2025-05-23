@@ -1,5 +1,5 @@
 # Digital-Portfolio-PRP
-Welcome to my digital portfolio created as part of the Project Presentation 3 module. This portfolio includes evidence and reflection on work readiness activities completed during the course.
+Welcome to my professional portfolio, a carefully selected compilation of significant academic and personal growth experiences undertaken throughout my journey at the Cape Peninsula University of Technology (CPUT). This portfolio highlights my development, dedication, and accomplishments via diverse modules and tasks aimed at providing me with the necessary practical skills and theoretical understanding for success in the workforce
 
 ## 1. Career Counselling
 
