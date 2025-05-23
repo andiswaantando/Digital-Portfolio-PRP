@@ -5,6 +5,8 @@ Welcome to my digital portfolio created as part of the Project Presentation 3 mo
 
 ### Evidence
 (https://github.com/andiswaantando/Digital-Portfolio-PRP.git/main/Career-Development.png)
+![Career Development](https://github.com/user-attachments/assets/7e09175a-fab3-40a4-88c8-e8f406fb5abc)
+
 
 
 ### 💭 Reflection (STAR Technique)
